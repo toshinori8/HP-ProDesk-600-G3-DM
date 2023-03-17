@@ -1,0 +1,4 @@
+#!/bin/bash 
+sudo ifconfig en0 media 100baseTX
+
+osascript -e 'tell application "Terminal" to quit'
