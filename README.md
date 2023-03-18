@@ -10,7 +10,7 @@
 | Processor           | Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz    |
 | SMBIOS              | iMac18,1     |
 | Graphics			  | Intel HD Graphics 530 fake [Intel HD Graphics 630] 2048  MB]                 		|
-| Sound Card          | Realtek ALC221             |
+| Sound Card          | Conexant	CX20632  layout 20, 23, 28             |
 | Ethernet		      | Intel I219-LM                      |
 | WiFi		          | Intel 7265 m.2                          	|
 | RAM		          | 16GB                                     	|
@@ -38,8 +38,8 @@
 + M.2 Pcie SSD 
 + Fixed RTC error on restart 
 
-GeekBench Score 2572
-https://browser.geekbench.com/v5/cpu/compare/20890407?baseline=15593232
+GeekBench Score 2833
+https://browser.geekbench.com/v5/cpu/compare/20897670?baseline=15593232
 
 ## Installation
 
