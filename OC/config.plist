@@ -676,7 +676,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/HibernationFixup</string>
 				<key>MaxKernel</key>
@@ -1317,7 +1317,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 -uia_ignore_rmcf  alcid=28 igfxonln=1</string>
+				<string>-v keepsyms=1 -uia_ignore_rmcf  alcid=28 igfxonln=1 EnableAutoHibernation=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>

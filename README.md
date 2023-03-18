@@ -28,7 +28,7 @@
 
 ## Working / Fixed; 
 
-
++ sleep - hibernation fixup
 + Intel HD 530 blnking screen - fix by inject Intel Iris 520 
 + USB
 + Sound / tested only on DP
