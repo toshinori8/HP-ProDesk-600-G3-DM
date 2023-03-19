@@ -29,14 +29,15 @@
 ## Working / Fixed; 
 
 + sleep - hibernation fixup
-+ Intel HD 530 blnking screen - inject -> Intel HD Graphics 630 
++ Intel HD 530 - inject -> Intel HD Graphics 630
+    Display flickering gone by inserting two of 8GB RAM. There was many problems with acceleration in photoshop and blinkig power of monitor. 
 + USB power
 + Sound / tested only on DP
 + Wifi and Ethernet
 + M.2 Pcie SSD 
 + Fixed RTC error on restart 
 + Wifi Intel 7265 m.2 works as native WiFi
-+ Display flickering gone by inserting two of 8GB RAM. One one, there was many problems with acceleration in photoshop and blinkig of power on monitor. 
+
 
 GeekBench Score 2833
 https://browser.geekbench.com/v5/cpu/compare/20897670?baseline=15593232
