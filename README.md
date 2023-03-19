@@ -1,4 +1,4 @@
-![HP Prodesk 600 G3 DM](OC/Resources/Image/hp-prodesk-600-g3-dm.jpg)
+![HP Prodesk 600 G3 DM](OC/Resources/Image/hp-prodesk-600-g3-dm.png)
 # HP ProDesk 600 G3 DM 
 ## Ventura 13.2.1 (22D68)
 
