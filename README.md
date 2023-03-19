@@ -43,7 +43,9 @@ https://browser.geekbench.com/v5/cpu/compare/20897670?baseline=15593232
 
 ## Installation
 
+ 
 
+[Bios Settings: /bios-settings](/bios-settings)
 
 
 - Durning installation if you nead ethernet and is disconected use terminal to set proper media type. Script is located under /EFI/network_UP_script 
